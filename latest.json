@@ -3,7 +3,7 @@
   "version_name": "0.2.3",
   "version_code": 5,
   "apk_url": "https://github.com/FreddiFeik/viola-companion-releases/releases/download/v0.2.3/viola-companion-0.2.3.apk",
-  "sha256": "37e6f7e5d5d8eb7260fa16a80422e36f56d2b7badf58c57a53944777cfcc7549",
+  "sha256": "78129351e3baf48093bd93faf3e99851dabe15554c8864e280ece242f844bbf9",
   "changelog": "Публичный каталог Viola без ручной настройки URL и API-токена. Улучшен канал обновлений и сообщения об ошибках.",
   "published": true
 }
