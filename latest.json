@@ -3,7 +3,7 @@
   "version_name": "0.4.2",
   "version_code": 16,
   "apk_url": "https://github.com/FreddiFeik/viola-companion-releases/releases/download/v0.4.2/viola-companion-0.4.2.apk",
-  "sha256": "35d35db43e43d8e1a6693a29bf7b4a85d9eb814dc5931fa948e67d179eb634e4",
-  "changelog": "Обновления переведены на прямой GitHub-канал с проверкой SHA-256. В разделе данных отображается время последней успешной загрузки каталога Viola.",
+  "sha256": "e7271b86624c5836d1389c538e4eb59d23912aaf4f2ed212c5cd68e9882fa4db",
+  "changelog": "Большое обновление Companion: единая загрузка всего мира из Viola, новый главный экран со счётчиками, полная резервная копия четырёх разделов и защищённая выгрузка локальных изменений с проверкой конфликтов.",
   "published": true
 }
