@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "version_name": "0.3.1",
-  "version_code": 13,
-  "apk_url": "https://github.com/FreddiFeik/viola-companion-releases/releases/download/v0.3.1/viola-companion-0.3.1.apk",
-  "sha256": "af034a61455d3a4610e52d798daf1bfb7c0d5b80a2200e846831ab1961dd01eb",
+  "version_name": "0.4.2",
+  "version_code": 16,
+  "apk_url": "https://github.com/FreddiFeik/viola-companion-releases/releases/download/v0.4.2/viola-companion-0.4.2.apk",
+  "sha256": "35d35db43e43d8e1a6693a29bf7b4a85d9eb814dc5931fa948e67d179eb634e4",
   "changelog": "Обновления переведены на прямой GitHub-канал с проверкой SHA-256. В разделе данных отображается время последней успешной загрузки каталога Viola.",
   "published": true
 }
