@@ -3,7 +3,7 @@
   "version_name": "0.5.1",
   "version_code": 18,
   "apk_url": "https://github.com/FreddiFeik/viola-companion-releases/releases/download/v0.5.1/viola-companion-0.5.1.apk",
-  "sha256": "cf8ecfc54c294597cf6d8aa5a721d8281731e53b8849e3b667f91f62f5d0d4a8",
-  "changelog": "Большое обновление Companion: единая загрузка всего мира из Viola, новый главный экран со счётчиками, полная резервная копия четырёх разделов и защищённая выгрузка локальных изменений с проверкой конфликтов.",
+  "sha256": "521256f953f0e2300f4d2d4b61a17091b459903331871d8cd1aa157eca927ad9",
+  "changelog": "Dark Fantasy Companion: новый визуальный язык главного экрана и каталогов, тёмный системный интерфейс Android и безопасное восстановление после прерванной выгрузки предмета без создания дубля.",
   "published": true
 }
