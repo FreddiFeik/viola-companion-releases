@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "version_name": "0.5.1",
-  "version_code": 18,
-  "apk_url": "https://github.com/FreddiFeik/viola-companion-releases/releases/download/v0.5.1/viola-companion-0.5.1.apk",
-  "sha256": "521256f953f0e2300f4d2d4b61a17091b459903331871d8cd1aa157eca927ad9",
+  "version_name": "0.5.2",
+  "version_code": 19,
+  "apk_url": "https://github.com/FreddiFeik/viola-companion-releases/releases/download/v0.5.2/viola-companion-0.5.2.apk",
+  "sha256": "d054d3c9009fe4d9d3941b6aed093a1450c62bf10034d344d510ddf03ad3f540",
   "changelog": "Dark Fantasy Companion: новый визуальный язык главного экрана и каталогов, тёмный системный интерфейс Android и безопасное восстановление после прерванной выгрузки предмета без создания дубля.",
   "published": true
 }
