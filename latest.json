@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "version_name": "0.5.3",
-  "version_code": 20,
-  "apk_url": "https://github.com/FreddiFeik/viola-companion-releases/releases/download/v0.5.3/viola-companion-0.5.3.apk",
-  "sha256": "19f45938eacdb5f40f39c226e9f0299799549d91740adb5be29a2660cc8874cb",
+  "version_name": "0.6.0",
+  "version_code": 21,
+  "apk_url": "https://github.com/FreddiFeik/viola-companion-releases/releases/download/v0.6.0/viola-companion-0.6.0.apk",
+  "sha256": "59c944182f8e6d7aa27031c7265efaa552fa1a16d08fce645116283c5c552426",
   "changelog": "Dark Fantasy Companion: единый тёмно-фэнтезийный интерфейс мастерской, каталогов, редакторов и канала Viola; собственные состояния загрузки, ошибок и подтверждений; усиленная проверка резервных копий перед восстановлением; безопасное восстановление после прерванной выгрузки предмета; корректное отображение локальных удалений, которые сервер пока не синхронизирует.",
   "published": true
 }
