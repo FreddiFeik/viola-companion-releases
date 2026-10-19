@@ -4,7 +4,7 @@
   "branch": "workbench",
   "sha": "42e365a5d527a56f7fd2aaddd71da5800b26e33f",
   "message": "fix: keep developer controls reachable for owner",
-  "status": "in_progress",
-  "conclusion": null,
+  "status": "completed",
+  "conclusion": "success",
   "updated_at": "2026-10-19T22:51:23Z"
 }
