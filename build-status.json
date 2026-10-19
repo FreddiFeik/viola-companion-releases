@@ -4,7 +4,7 @@
   "branch": "workbench",
   "sha": "38f045b37dfd48ede03143876ba85dbb8fb1be96",
   "message": "feat: connect live status to Android notification",
-  "status": "in_progress",
-  "conclusion": null,
+  "status": "completed",
+  "conclusion": "success",
   "updated_at": "2026-10-19T22:51:23Z"
 }
