@@ -1,0 +1,10 @@
+{
+  "schema": 1,
+  "workflow": "Fast Workbench",
+  "branch": "workbench",
+  "sha": "dba2b090a1696479667db52419b12d9faa227e55",
+  "message": "ci: publish live workbench status",
+  "status": "in_progress",
+  "conclusion": null,
+  "updated_at": "2026-10-19T22:51:23Z"
+}
