@@ -4,7 +4,7 @@
   "branch": "workbench",
   "sha": "a5c390d12bb514d4cacfb84a0d40c1fe35e34fce",
   "message": "test(ci): check Android version and update release metadata contract",
-  "status": "in_progress",
-  "conclusion": null,
+  "status": "completed",
+  "conclusion": "success",
   "updated_at": "2026-10-20T09:26:59Z"
 }
