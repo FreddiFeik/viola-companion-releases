@@ -4,7 +4,7 @@
   "branch": "workbench",
   "sha": "7d987b25a23008a471e3e9e013a282f5bad8a0ff",
   "message": "test(ci): guard against release version rollback and check published APK",
-  "status": "in_progress",
-  "conclusion": null,
+  "status": "completed",
+  "conclusion": "success",
   "updated_at": "2026-10-20T09:26:59Z"
 }
