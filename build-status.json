@@ -2,9 +2,9 @@
   "schema": 1,
   "workflow": "Fast Workbench",
   "branch": "workbench",
-  "sha": "576085cc97ecaa8001e55a1f1e2d33371ce76b16",
-  "message": "fix(ci): use actual newline escapes in workbench fixture",
-  "status": "completed",
-  "conclusion": "success",
+  "sha": "fc13e3333e79107d7942ed0cefa20c6d8c88aba0",
+  "message": "test(ci): intentionally break Android patch to verify workbench rejects it",
+  "status": "in_progress",
+  "conclusion": null,
   "updated_at": "2026-10-20T09:26:59Z"
 }
