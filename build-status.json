@@ -4,7 +4,7 @@
   "branch": "workbench",
   "sha": "c1d602da02a85ca3ca47c8f8b735037fbdd1a26d",
   "message": "ci: validate workflow changes in fast workbench",
-  "status": "in_progress",
-  "conclusion": null,
+  "status": "completed",
+  "conclusion": "success",
   "updated_at": "2026-10-19T22:51:23Z"
 }
