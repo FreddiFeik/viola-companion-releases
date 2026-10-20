@@ -2,9 +2,9 @@
   "schema": 1,
   "workflow": "Fast Workbench",
   "branch": "workbench",
-  "sha": "75f7528bf102ba3ed0dfa61b3b4c75c6cbb5ce2f",
-  "message": "test(ci): validate Android Gradle patch in fast workbench",
-  "status": "completed",
-  "conclusion": "failure",
+  "sha": "576085cc97ecaa8001e55a1f1e2d33371ce76b16",
+  "message": "fix(ci): use actual newline escapes in workbench fixture",
+  "status": "in_progress",
+  "conclusion": null,
   "updated_at": "2026-10-20T09:26:59Z"
 }
