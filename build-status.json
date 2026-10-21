@@ -2,9 +2,9 @@
   "schema": 1,
   "workflow": "Fast Workbench",
   "branch": "workbench",
-  "sha": "7c2afc4125c2fcb565ee32bfc49ecf4b743186f2",
-  "message": "fix: label spirit_strength as Духовная сила",
-  "status": "completed",
-  "conclusion": "success",
+  "sha": "67114d1be53101424806723988d9c5f765a56748",
+  "message": "feat: stage stat allocations offline without any automatic API mutation",
+  "status": "in_progress",
+  "conclusion": null,
   "updated_at": "2026-10-21T22:49:36Z"
 }
