@@ -2,9 +2,9 @@
   "schema": 1,
   "workflow": "Fast Workbench",
   "branch": "workbench",
-  "sha": "6ebca08480e4fbefbad2d4fea75124b3433c0d5f",
-  "message": "feat: persist owner beta update channel selection securely",
-  "status": "completed",
-  "conclusion": "success",
+  "sha": "e52c6db1df4d25779ccd4b8d79850b2ff2201fc6",
+  "message": "ci: signed workbench beta APK release isolated from stable manifest",
+  "status": "in_progress",
+  "conclusion": null,
   "updated_at": "2026-10-20T09:26:59Z"
 }
