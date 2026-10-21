@@ -2,9 +2,9 @@
   "schema": 1,
   "workflow": "Fast Workbench",
   "branch": "workbench",
-  "sha": "4bfba950fbe57f303c8bc2f22aefb2c964a64f57",
-  "message": "fix: wrap pending-allocation error snackbar in if block for Flutter lint",
-  "status": "completed",
-  "conclusion": "success",
+  "sha": "b885e2a7b9690b5d93465e81e3a2ed12fe8749e5",
+  "message": "feat: authenticated Companion user administration client",
+  "status": "in_progress",
+  "conclusion": null,
   "updated_at": "2026-10-20T09:26:59Z"
 }
