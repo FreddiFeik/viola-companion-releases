@@ -4,7 +4,7 @@
   "branch": "workbench",
   "sha": "eb52e21f1a51e0b2fa7ac6558fc0998be1d8789a",
   "message": "fix: persist pending stat allocation and replay same request after restart",
-  "status": "in_progress",
-  "conclusion": null,
+  "status": "completed",
+  "conclusion": "failure",
   "updated_at": "2026-10-20T09:26:59Z"
 }
