@@ -2,9 +2,9 @@
   "schema": 1,
   "workflow": "Fast Workbench",
   "branch": "workbench",
-  "sha": "6f58ad9b8dce45acb84c22d7463e1edf9aa29afe",
-  "message": "feat: expose user administration for owner and admins",
-  "status": "completed",
-  "conclusion": "failure",
+  "sha": "a248d37430988c854f6abf8d4c5e54cf5f1b8099",
+  "message": "fix: satisfy Flutter analyzer braces lint in user administration",
+  "status": "in_progress",
+  "conclusion": null,
   "updated_at": "2026-10-20T09:26:59Z"
 }
