@@ -2,9 +2,9 @@
   "schema": 1,
   "workflow": "Fast Workbench",
   "branch": "workbench",
-  "sha": "67114d1be53101424806723988d9c5f765a56748",
-  "message": "feat: stage stat allocations offline without any automatic API mutation",
-  "status": "completed",
-  "conclusion": "failure",
+  "sha": "8b6c8a2a7a65ebd31794d68f4df36b9e8aceebbd",
+  "message": "feat: count staged stat changes in existing manual upload action",
+  "status": "in_progress",
+  "conclusion": null,
   "updated_at": "2026-10-21T22:49:36Z"
 }
