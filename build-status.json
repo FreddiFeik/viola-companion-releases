@@ -2,9 +2,9 @@
   "schema": 1,
   "workflow": "Fast Workbench",
   "branch": "workbench",
-  "sha": "0a0bc1d020126281b05b217aae9150d831f8390c",
-  "message": "feat: add character stat allocation dialog in Chronicle",
-  "status": "completed",
-  "conclusion": "success",
+  "sha": "15649871c057360724a618f301d528d263d074f8",
+  "message": "fix: retry timed-out stat allocation with original idempotency key",
+  "status": "in_progress",
+  "conclusion": null,
   "updated_at": "2026-10-20T09:26:59Z"
 }
