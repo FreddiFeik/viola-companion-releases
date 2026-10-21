@@ -4,7 +4,7 @@
   "branch": "workbench",
   "sha": "7c2afc4125c2fcb565ee32bfc49ecf4b743186f2",
   "message": "fix: label spirit_strength as Духовная сила",
-  "status": "in_progress",
-  "conclusion": null,
+  "status": "completed",
+  "conclusion": "success",
   "updated_at": "2026-10-21T22:49:36Z"
 }
