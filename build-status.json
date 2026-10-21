@@ -4,7 +4,7 @@
   "branch": "workbench",
   "sha": "67114d1be53101424806723988d9c5f765a56748",
   "message": "feat: stage stat allocations offline without any automatic API mutation",
-  "status": "in_progress",
-  "conclusion": null,
+  "status": "completed",
+  "conclusion": "failure",
   "updated_at": "2026-10-21T22:49:36Z"
 }
