@@ -2,9 +2,9 @@
   "schema": 1,
   "workflow": "Fast Workbench",
   "branch": "workbench",
-  "sha": "70e04eeb73f2117766eb1d2c81b5203f225905df",
-  "message": "feat: separate beta update manifest from stable channel",
-  "status": "completed",
-  "conclusion": "success",
+  "sha": "e3004bd3bd2a6206a1147eab1f4478b42d00458b",
+  "message": "feat: owner-only beta update channel selector in Viola channel screen",
+  "status": "in_progress",
+  "conclusion": null,
   "updated_at": "2026-10-20T09:26:59Z"
 }
