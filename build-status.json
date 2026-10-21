@@ -4,7 +4,7 @@
   "branch": "workbench",
   "sha": "8b6bc33f73d1e5291f5783f7330aa60b6c8155ba",
   "message": "feat: display staged stat allocation in character chronicle across restarts",
-  "status": "in_progress",
-  "conclusion": null,
+  "status": "completed",
+  "conclusion": "failure",
   "updated_at": "2026-10-21T22:49:36Z"
 }
