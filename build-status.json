@@ -2,9 +2,9 @@
   "schema": 1,
   "workflow": "Fast Workbench",
   "branch": "workbench",
-  "sha": "b885e2a7b9690b5d93465e81e3a2ed12fe8749e5",
-  "message": "feat: authenticated Companion user administration client",
-  "status": "completed",
-  "conclusion": "success",
+  "sha": "6f58ad9b8dce45acb84c22d7463e1edf9aa29afe",
+  "message": "feat: expose user administration for owner and admins",
+  "status": "in_progress",
+  "conclusion": null,
   "updated_at": "2026-10-20T09:26:59Z"
 }
