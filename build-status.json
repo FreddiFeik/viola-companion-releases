@@ -2,9 +2,9 @@
   "schema": 1,
   "workflow": "Fast Workbench",
   "branch": "workbench",
-  "sha": "8ec6b273c8bf05e3d416e5c0bacb7d7fb0fae3c4",
-  "message": "fix: guard BuildContext after awaiting pending stats reload",
-  "status": "completed",
-  "conclusion": "success",
+  "sha": "8520164a5f66c8708fcff8cf01e30283fe3ac842",
+  "message": "feat: expose queued stat point count for manual upload confirmation",
+  "status": "in_progress",
+  "conclusion": null,
   "updated_at": "2026-10-21T22:49:36Z"
 }
