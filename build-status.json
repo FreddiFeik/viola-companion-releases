@@ -2,9 +2,9 @@
   "schema": 1,
   "workflow": "Fast Workbench",
   "branch": "workbench",
-  "sha": "e52c6db1df4d25779ccd4b8d79850b2ff2201fc6",
-  "message": "ci: signed workbench beta APK release isolated from stable manifest",
-  "status": "completed",
-  "conclusion": "success",
-  "updated_at": "2026-10-20T09:26:59Z"
+  "sha": "7c2afc4125c2fcb565ee32bfc49ecf4b743186f2",
+  "message": "fix: label spirit_strength as Духовная сила",
+  "status": "in_progress",
+  "conclusion": null,
+  "updated_at": "2026-10-21T22:49:36Z"
 }
