@@ -4,7 +4,7 @@
   "branch": "workbench",
   "sha": "8b6c8a2a7a65ebd31794d68f4df36b9e8aceebbd",
   "message": "feat: count staged stat changes in existing manual upload action",
-  "status": "in_progress",
-  "conclusion": null,
+  "status": "completed",
+  "conclusion": "failure",
   "updated_at": "2026-10-21T22:49:36Z"
 }
