@@ -2,9 +2,9 @@
   "schema": 1,
   "workflow": "Fast Workbench",
   "branch": "workbench",
-  "sha": "8c7391779ff014bb58550a04726fef1df5f3b623",
-  "message": "feat: add Companion stat allocation API client",
-  "status": "completed",
-  "conclusion": "success",
+  "sha": "0a0bc1d020126281b05b217aae9150d831f8390c",
+  "message": "feat: add character stat allocation dialog in Chronicle",
+  "status": "in_progress",
+  "conclusion": null,
   "updated_at": "2026-10-20T09:26:59Z"
 }
