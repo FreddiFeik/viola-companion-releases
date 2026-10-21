@@ -2,9 +2,9 @@
   "schema": 1,
   "workflow": "Fast Workbench",
   "branch": "workbench",
-  "sha": "8520164a5f66c8708fcff8cf01e30283fe3ac842",
-  "message": "feat: expose queued stat point count for manual upload confirmation",
-  "status": "completed",
-  "conclusion": "success",
+  "sha": "55063988332f2ae76d571f0e4b9cd010c887fdc0",
+  "message": "feat: show queued stat point count before manual upload",
+  "status": "in_progress",
+  "conclusion": null,
   "updated_at": "2026-10-21T22:49:36Z"
 }
