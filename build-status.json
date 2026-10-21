@@ -4,7 +4,7 @@
   "branch": "workbench",
   "sha": "8520164a5f66c8708fcff8cf01e30283fe3ac842",
   "message": "feat: expose queued stat point count for manual upload confirmation",
-  "status": "in_progress",
-  "conclusion": null,
+  "status": "completed",
+  "conclusion": "success",
   "updated_at": "2026-10-21T22:49:36Z"
 }
