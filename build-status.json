@@ -2,9 +2,9 @@
   "schema": 1,
   "workflow": "Fast Workbench",
   "branch": "workbench",
-  "sha": "15649871c057360724a618f301d528d263d074f8",
-  "message": "fix: retry timed-out stat allocation with original idempotency key",
-  "status": "completed",
-  "conclusion": "success",
+  "sha": "eb52e21f1a51e0b2fa7ac6558fc0998be1d8789a",
+  "message": "fix: persist pending stat allocation and replay same request after restart",
+  "status": "in_progress",
+  "conclusion": null,
   "updated_at": "2026-10-20T09:26:59Z"
 }
