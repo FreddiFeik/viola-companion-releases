@@ -2,8 +2,8 @@
   "schema": 1,
   "workflow": "Fast Workbench",
   "branch": "workbench",
-  "sha": "8b6c8a2a7a65ebd31794d68f4df36b9e8aceebbd",
-  "message": "feat: count staged stat changes in existing manual upload action",
+  "sha": "a10eec00ca6698244388e4f1e156822b81f4ddbd",
+  "message": "fix: remove undefined statsPending from pull status",
   "status": "completed",
   "conclusion": "failure",
   "updated_at": "2026-10-21T22:49:36Z"
