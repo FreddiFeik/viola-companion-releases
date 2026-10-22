@@ -4,7 +4,7 @@
   "branch": "workbench",
   "sha": "174f8d9d89b097d2d3a73a38f74d514fd341a076",
   "message": "feat: enter local Companion using cached identity when Viola is offline",
-  "status": "in_progress",
-  "conclusion": null,
+  "status": "completed",
+  "conclusion": "success",
   "updated_at": "2026-10-21T22:49:36Z"
 }
