@@ -4,7 +4,7 @@
   "branch": "workbench",
   "sha": "7d60fe9aa5a0fcb267dff3a3593bde7e424b2ac1",
   "message": "fix: remove obsolete inventory detail row widget after shared codex migration",
-  "status": "in_progress",
-  "conclusion": null,
+  "status": "completed",
+  "conclusion": "success",
   "updated_at": "2026-10-21T22:49:36Z"
 }
