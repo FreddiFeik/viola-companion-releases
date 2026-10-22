@@ -4,7 +4,7 @@
   "branch": "workbench",
   "sha": "89e131ac0c83422904b0f9cd9ae931ea0bded63d",
   "message": "feat: open inventory items with shared read-only codex card",
-  "status": "in_progress",
-  "conclusion": null,
+  "status": "completed",
+  "conclusion": "failure",
   "updated_at": "2026-10-21T22:49:36Z"
 }
