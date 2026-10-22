@@ -2,9 +2,9 @@
   "schema": 1,
   "workflow": "Fast Workbench",
   "branch": "workbench",
-  "sha": "bd947d0fe22056f692081832b47c693a7c560940",
-  "message": "style: dark-gold administration registry with retryable API error state",
-  "status": "completed",
-  "conclusion": "success",
+  "sha": "38dd8c4e1282158cf65e456e845ce6f64a67c2ac",
+  "message": "chore: prepare Companion 0.6.1-beta.2 build 23",
+  "status": "in_progress",
+  "conclusion": null,
   "updated_at": "2026-10-21T22:49:36Z"
 }
