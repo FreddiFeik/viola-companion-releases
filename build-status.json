@@ -2,9 +2,9 @@
   "schema": 1,
   "workflow": "Fast Workbench",
   "branch": "workbench",
-  "sha": "136dc536a410f9e57c6a3c58973e351cca4abee0",
-  "message": "fix: refresh character identity after returning from manual data sync",
-  "status": "completed",
-  "conclusion": "success",
+  "sha": "944f6d07ce8527cc96db86cc960ccc29e44a9abd",
+  "message": "feat: support read-only inventory mode in shared codex item details",
+  "status": "in_progress",
+  "conclusion": null,
   "updated_at": "2026-10-21T22:49:36Z"
 }
