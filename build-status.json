@@ -2,8 +2,8 @@
   "schema": 1,
   "workflow": "Fast Workbench",
   "branch": "workbench",
-  "sha": "38dd8c4e1282158cf65e456e845ce6f64a67c2ac",
-  "message": "chore: prepare Companion 0.6.1-beta.2 build 23",
+  "sha": "e646fe5c6a19600d420d5ecbe9af0f3a0ce9260b",
+  "message": "fix: distinguish revoked Companion token from temporary API failures",
   "status": "completed",
   "conclusion": "success",
   "updated_at": "2026-10-21T22:49:36Z"
