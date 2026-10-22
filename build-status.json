@@ -2,9 +2,9 @@
   "schema": 1,
   "workflow": "Fast Workbench",
   "branch": "workbench",
-  "sha": "944f6d07ce8527cc96db86cc960ccc29e44a9abd",
-  "message": "feat: support read-only inventory mode in shared codex item details",
-  "status": "completed",
-  "conclusion": "success",
+  "sha": "89e131ac0c83422904b0f9cd9ae931ea0bded63d",
+  "message": "feat: open inventory items with shared read-only codex card",
+  "status": "in_progress",
+  "conclusion": null,
   "updated_at": "2026-10-21T22:49:36Z"
 }
