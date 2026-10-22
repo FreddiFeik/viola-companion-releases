@@ -4,7 +4,7 @@
   "branch": "workbench",
   "sha": "136dc536a410f9e57c6a3c58973e351cca4abee0",
   "message": "fix: refresh character identity after returning from manual data sync",
-  "status": "in_progress",
-  "conclusion": null,
+  "status": "completed",
+  "conclusion": "success",
   "updated_at": "2026-10-21T22:49:36Z"
 }
