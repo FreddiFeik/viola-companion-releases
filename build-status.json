@@ -2,9 +2,9 @@
   "schema": 1,
   "workflow": "Fast Workbench",
   "branch": "workbench",
-  "sha": "e646fe5c6a19600d420d5ecbe9af0f3a0ce9260b",
-  "message": "fix: distinguish revoked Companion token from temporary API failures",
-  "status": "completed",
-  "conclusion": "success",
+  "sha": "0d397dba25e9063d96cc7ee08e32abd3f0cce1e5",
+  "message": "fix: never erase saved pairing on identity refresh failure",
+  "status": "in_progress",
+  "conclusion": null,
   "updated_at": "2026-10-21T22:49:36Z"
 }
