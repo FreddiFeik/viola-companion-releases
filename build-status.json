@@ -2,9 +2,9 @@
   "schema": 1,
   "workflow": "Fast Workbench",
   "branch": "workbench",
-  "sha": "e646fe5c6a19600d420d5ecbe9af0f3a0ce9260b",
-  "message": "fix: distinguish revoked Companion token from temporary API failures",
-  "status": "completed",
-  "conclusion": "success",
+  "sha": "53e188a9ce3a1f2111463e248f31d26e25531d43",
+  "message": "feat: cache last validated Companion identity for offline startup",
+  "status": "in_progress",
+  "conclusion": null,
   "updated_at": "2026-10-21T22:49:36Z"
 }
