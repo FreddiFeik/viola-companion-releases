@@ -4,7 +4,7 @@
   "branch": "workbench",
   "sha": "53e188a9ce3a1f2111463e248f31d26e25531d43",
   "message": "feat: cache last validated Companion identity for offline startup",
-  "status": "in_progress",
-  "conclusion": null,
+  "status": "completed",
+  "conclusion": "success",
   "updated_at": "2026-10-21T22:49:36Z"
 }
