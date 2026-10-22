@@ -2,9 +2,9 @@
   "schema": 1,
   "workflow": "Fast Workbench",
   "branch": "workbench",
-  "sha": "89e131ac0c83422904b0f9cd9ae931ea0bded63d",
-  "message": "feat: open inventory items with shared read-only codex card",
-  "status": "completed",
-  "conclusion": "failure",
+  "sha": "7d60fe9aa5a0fcb267dff3a3593bde7e424b2ac1",
+  "message": "fix: remove obsolete inventory detail row widget after shared codex migration",
+  "status": "in_progress",
+  "conclusion": null,
   "updated_at": "2026-10-21T22:49:36Z"
 }
