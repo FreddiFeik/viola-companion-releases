@@ -2,9 +2,9 @@
   "schema": 1,
   "workflow": "Fast Workbench",
   "branch": "workbench",
-  "sha": "7d60fe9aa5a0fcb267dff3a3593bde7e424b2ac1",
-  "message": "fix: remove obsolete inventory detail row widget after shared codex migration",
-  "status": "completed",
-  "conclusion": "success",
+  "sha": "bd947d0fe22056f692081832b47c693a7c560940",
+  "message": "style: dark-gold administration registry with retryable API error state",
+  "status": "in_progress",
+  "conclusion": null,
   "updated_at": "2026-10-21T22:49:36Z"
 }
