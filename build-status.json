@@ -2,9 +2,9 @@
   "schema": 1,
   "workflow": "Fast Workbench",
   "branch": "workbench",
-  "sha": "174f8d9d89b097d2d3a73a38f74d514fd341a076",
-  "message": "feat: enter local Companion using cached identity when Viola is offline",
-  "status": "completed",
-  "conclusion": "success",
+  "sha": "175fe6df880dd74931cc8db1da4b1d5ebf2fb8e5",
+  "message": "chore: prepare Companion 0.6.1-beta.3 build 24 with offline startup fix",
+  "status": "in_progress",
+  "conclusion": null,
   "updated_at": "2026-10-21T22:49:36Z"
 }
