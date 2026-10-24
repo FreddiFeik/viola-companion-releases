@@ -2,9 +2,9 @@
   "schema": 1,
   "workflow": "Fast Workbench",
   "branch": "workbench",
-  "sha": "c14122419ab5455d658f6404dd13301def08b243",
-  "message": "fix: fall back to UUID when inventory server ID is missing from catalog",
-  "status": "completed",
-  "conclusion": "success",
+  "sha": "d384db5f31807c185dd23c896201802924d82d07",
+  "message": "fix: normalize inventory quantities and duplicates, memoize item lookup",
+  "status": "in_progress",
+  "conclusion": null,
   "updated_at": "2026-10-21T22:49:36Z"
 }
