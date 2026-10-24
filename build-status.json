@@ -4,7 +4,7 @@
   "branch": "workbench",
   "sha": "e990c0fd64b6eda0ec6d539d275501aed4d290b0",
   "message": "fix: open inventory items using catalog record when available",
-  "status": "in_progress",
-  "conclusion": null,
+  "status": "completed",
+  "conclusion": "success",
   "updated_at": "2026-10-21T22:49:36Z"
 }
