@@ -2,9 +2,9 @@
   "schema": 1,
   "workflow": "Fast Workbench",
   "branch": "workbench",
-  "sha": "e990c0fd64b6eda0ec6d539d275501aed4d290b0",
-  "message": "fix: open inventory items using catalog record when available",
-  "status": "completed",
-  "conclusion": "success",
+  "sha": "37790b3c4ebf2ba588923187529c6390fbe9a044",
+  "message": "fix: protect catalog against duplicate server IDs during repeated imports",
+  "status": "in_progress",
+  "conclusion": null,
   "updated_at": "2026-10-21T22:49:36Z"
 }
