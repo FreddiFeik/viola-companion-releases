@@ -4,7 +4,7 @@
   "branch": "workbench",
   "sha": "1fa6e38359a319855e75c4bbb19af071e14ba22d",
   "message": "fix: show server-backed inventory items as synchronized in codex detail",
-  "status": "in_progress",
-  "conclusion": null,
+  "status": "completed",
+  "conclusion": "success",
   "updated_at": "2026-10-21T22:49:36Z"
 }
