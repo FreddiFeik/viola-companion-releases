@@ -4,7 +4,7 @@
   "branch": "workbench",
   "sha": "d384db5f31807c185dd23c896201802924d82d07",
   "message": "fix: normalize inventory quantities and duplicates, memoize item lookup",
-  "status": "in_progress",
-  "conclusion": null,
+  "status": "completed",
+  "conclusion": "success",
   "updated_at": "2026-10-21T22:49:36Z"
 }
