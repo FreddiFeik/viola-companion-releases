@@ -4,7 +4,7 @@
   "branch": "workbench",
   "sha": "c14122419ab5455d658f6404dd13301def08b243",
   "message": "fix: fall back to UUID when inventory server ID is missing from catalog",
-  "status": "in_progress",
-  "conclusion": null,
+  "status": "completed",
+  "conclusion": "success",
   "updated_at": "2026-10-21T22:49:36Z"
 }
