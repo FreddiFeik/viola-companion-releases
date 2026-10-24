@@ -2,9 +2,9 @@
   "schema": 1,
   "workflow": "Fast Workbench",
   "branch": "workbench",
-  "sha": "37790b3c4ebf2ba588923187529c6390fbe9a044",
-  "message": "fix: protect catalog against duplicate server IDs during repeated imports",
-  "status": "completed",
-  "conclusion": "success",
+  "sha": "5682cffd769dd3ce6e393a24505b08c627a69c3e",
+  "message": "feat: allow inventory lookup by canonical item UUID",
+  "status": "in_progress",
+  "conclusion": null,
   "updated_at": "2026-10-21T22:49:36Z"
 }
