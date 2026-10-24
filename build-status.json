@@ -4,7 +4,7 @@
   "branch": "workbench",
   "sha": "4f8f5cd7d34bcb6df629c224482335dd9200b3f7",
   "message": "feat: resolve inventory entries against canonical local item catalog",
-  "status": "in_progress",
-  "conclusion": null,
+  "status": "completed",
+  "conclusion": "success",
   "updated_at": "2026-10-21T22:49:36Z"
 }
