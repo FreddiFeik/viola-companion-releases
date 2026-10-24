@@ -2,9 +2,9 @@
   "schema": 1,
   "workflow": "Fast Workbench",
   "branch": "workbench",
-  "sha": "4f8f5cd7d34bcb6df629c224482335dd9200b3f7",
-  "message": "feat: resolve inventory entries against canonical local item catalog",
-  "status": "completed",
-  "conclusion": "success",
+  "sha": "e990c0fd64b6eda0ec6d539d275501aed4d290b0",
+  "message": "fix: open inventory items using catalog record when available",
+  "status": "in_progress",
+  "conclusion": null,
   "updated_at": "2026-10-21T22:49:36Z"
 }
