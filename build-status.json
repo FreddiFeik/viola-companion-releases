@@ -2,9 +2,9 @@
   "schema": 1,
   "workflow": "Fast Workbench",
   "branch": "workbench",
-  "sha": "175fe6df880dd74931cc8db1da4b1d5ebf2fb8e5",
-  "message": "chore: prepare Companion 0.6.1-beta.3 build 24 with offline startup fix",
-  "status": "completed",
-  "conclusion": "success",
+  "sha": "b0b11a0e4d6a6808925890d56ab4851977acc5af",
+  "message": "fix: explain upstream Viola API authentication failures during pairing",
+  "status": "in_progress",
+  "conclusion": null,
   "updated_at": "2026-10-21T22:49:36Z"
 }
