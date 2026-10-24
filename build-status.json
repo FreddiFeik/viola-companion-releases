@@ -2,9 +2,9 @@
   "schema": 1,
   "workflow": "Fast Workbench",
   "branch": "workbench",
-  "sha": "1d7eafbfc3df0a06eedf01d93a2d1149fbcdd9f1",
-  "message": "chore: prepare Companion 0.6.1-beta.4 build 25 with pairing diagnostics",
-  "status": "completed",
-  "conclusion": "success",
+  "sha": "1fa6e38359a319855e75c4bbb19af071e14ba22d",
+  "message": "fix: show server-backed inventory items as synchronized in codex detail",
+  "status": "in_progress",
+  "conclusion": null,
   "updated_at": "2026-10-21T22:49:36Z"
 }
