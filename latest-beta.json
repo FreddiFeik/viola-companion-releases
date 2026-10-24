@@ -1,10 +1,10 @@
 {
   "schema": 1,
   "channel": "beta",
-  "version_name": "0.6.1-beta.3",
-  "version_code": 24,
-  "apk_url": "https://github.com/FreddiFeik/viola-companion-releases/releases/download/beta-v0.6.1-beta.3/viola-companion-0.6.1-beta.3.apk",
-  "sha256": "63443d4977064409ea77dd2575d9bc33cb35185315a6ab21a5da7c671138418e",
+  "version_name": "0.6.1-beta.4",
+  "version_code": 25,
+  "apk_url": "https://github.com/FreddiFeik/viola-companion-releases/releases/download/beta-v0.6.1-beta.4/viola-companion-0.6.1-beta.4.apk",
+  "sha256": "916b451377ad798d69b76a6724b4e5e8e5cbcfd4ba7c29d3b22f7b4034799db2",
   "changelog": "Beta: управление пользователями и отдельный канал обновлений.",
   "published": true
 }
