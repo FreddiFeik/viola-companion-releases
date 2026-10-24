@@ -2,9 +2,9 @@
   "schema": 1,
   "workflow": "Fast Workbench",
   "branch": "workbench",
-  "sha": "1fa6e38359a319855e75c4bbb19af071e14ba22d",
-  "message": "fix: show server-backed inventory items as synchronized in codex detail",
-  "status": "completed",
-  "conclusion": "success",
+  "sha": "4f8f5cd7d34bcb6df629c224482335dd9200b3f7",
+  "message": "feat: resolve inventory entries against canonical local item catalog",
+  "status": "in_progress",
+  "conclusion": null,
   "updated_at": "2026-10-21T22:49:36Z"
 }
