@@ -2,9 +2,9 @@
   "schema": 1,
   "workflow": "Fast Workbench",
   "branch": "workbench",
-  "sha": "8845154f7c1267e5fe23a698784c4c95f1db49c2",
-  "message": "fix: satisfy Flutter analyzer braces rule in development status polling",
-  "status": "completed",
-  "conclusion": "success",
+  "sha": "a09c9e4433846e677824d24f4dfbff8f83cf4c9a",
+  "message": "fix: distinguish stale and unknown development status from failed CI",
+  "status": "in_progress",
+  "conclusion": null,
   "updated_at": "2026-10-21T22:49:36Z"
 }
