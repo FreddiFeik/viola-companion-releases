@@ -4,7 +4,7 @@
   "branch": "workbench",
   "sha": "3ef05671d865c8ccc9f0869c940c2af6fc65c322",
   "message": "feat: open language laboratory from developer mode",
-  "status": "in_progress",
-  "conclusion": null,
-  "updated_at": "2026-10-25T18:25:30.801814Z"
+  "status": "completed",
+  "conclusion": "success",
+  "updated_at": "2026-10-25T18:26:49.579746Z"
 }
