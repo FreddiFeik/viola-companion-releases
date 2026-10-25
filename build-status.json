@@ -4,7 +4,7 @@
   "branch": "workbench",
   "sha": "a597a8054eef5cbc208ea0920cce835ee1a017bd",
   "message": "fix(language): prevent saving mismatched RP text and analysis result",
-  "status": "in_progress",
-  "conclusion": null,
-  "updated_at": "2026-10-25T18:46:51.552340Z"
+  "status": "completed",
+  "conclusion": "failure",
+  "updated_at": "2026-10-25T18:48:00.917180Z"
 }
