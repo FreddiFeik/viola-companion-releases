@@ -2,9 +2,9 @@
   "schema": 1,
   "workflow": "Fast Workbench",
   "branch": "workbench",
-  "sha": "f106b8776598720238eef0908c537c64918b1e60",
-  "message": "fix: distinguish missing admin route from offline Viola in admin API errors",
-  "status": "completed",
-  "conclusion": "success",
-  "updated_at": "2026-10-25T13:11:48.993142Z"
+  "sha": "57a6219383a6d0eb59ffa9de922364200783d825",
+  "message": "fix: protect bestiary pending edits tombstones and server identity during pull",
+  "status": "in_progress",
+  "conclusion": null,
+  "updated_at": "2026-10-25T13:19:31.461039Z"
 }
