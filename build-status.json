@@ -2,9 +2,9 @@
   "schema": 1,
   "workflow": "Fast Workbench",
   "branch": "workbench",
-  "sha": "b6767ecba96a53a1a61a8c55dcb093ca2440fd11",
-  "message": "style(channel): align beta switch and archive actions with ritual command panels",
-  "status": "completed",
-  "conclusion": "success",
-  "updated_at": "2026-10-25T23:29:33.739601Z"
+  "sha": "99a5e4d76e5f0263784b371fa580fca39881d87f",
+  "message": "feat(ci): add opt-in event-driven FCM notification workflow for completed workbench runs",
+  "status": "in_progress",
+  "conclusion": null,
+  "updated_at": "2026-10-25T23:36:44.012538Z"
 }
