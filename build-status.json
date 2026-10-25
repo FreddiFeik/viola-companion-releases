@@ -2,9 +2,9 @@
   "schema": 1,
   "workflow": "Fast Workbench",
   "branch": "workbench",
-  "sha": "69582f6ea66e95537d3a9ec42ff249b0ca49700f",
-  "message": "fix: reconcile inventory identity by server ID and verify catalog UUID",
-  "status": "completed",
-  "conclusion": "success",
+  "sha": "936ce19b94a673e4a45ec9bcc1647d614c7969f3",
+  "message": "fix: reject mismatched UUID lookup when inventory server IDs conflict",
+  "status": "in_progress",
+  "conclusion": null,
   "updated_at": "2026-10-21T22:49:36Z"
 }
