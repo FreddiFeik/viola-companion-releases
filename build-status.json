@@ -2,9 +2,9 @@
   "schema": 1,
   "workflow": "Fast Workbench",
   "branch": "workbench",
-  "sha": "a597a8054eef5cbc208ea0920cce835ee1a017bd",
-  "message": "fix(language): prevent saving mismatched RP text and analysis result",
-  "status": "completed",
-  "conclusion": "failure",
-  "updated_at": "2026-10-25T18:48:00.917180Z"
+  "sha": "8a9f39fa6a25cb7390c59e60aba8821d226e9cfa",
+  "message": "fix: satisfy Flutter flow-control lint in language laboratory",
+  "status": "in_progress",
+  "conclusion": null,
+  "updated_at": "2026-10-25T18:50:01.103589Z"
 }
