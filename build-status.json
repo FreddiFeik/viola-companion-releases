@@ -2,9 +2,9 @@
   "schema": 1,
   "workflow": "Fast Workbench",
   "branch": "workbench",
-  "sha": "3ef05671d865c8ccc9f0869c940c2af6fc65c322",
-  "message": "feat: open language laboratory from developer mode",
-  "status": "completed",
-  "conclusion": "success",
-  "updated_at": "2026-10-25T18:26:49.579746Z"
+  "sha": "ae3ea9c873456e4967fc6b48ec74beb3f1bd3ec9",
+  "message": "feat(language): resolve movement using local Viola locations and clarify API errors",
+  "status": "in_progress",
+  "conclusion": null,
+  "updated_at": "2026-10-25T18:30:27.246274Z"
 }
