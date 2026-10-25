@@ -2,9 +2,9 @@
   "schema": 1,
   "workflow": "Fast Workbench",
   "branch": "workbench",
-  "sha": "7be48d3539c3f9534721136fba546129ca50cf64",
-  "message": "fix: guard item imports against stale revisions and conflicting IDs",
-  "status": "completed",
-  "conclusion": "success",
+  "sha": "37c80d7370325fe9309efe415fbbe3f075d5030e",
+  "message": "fix: preserve locally deleted items during catalog refresh",
+  "status": "in_progress",
+  "conclusion": null,
   "updated_at": "2026-10-21T22:49:36Z"
 }
