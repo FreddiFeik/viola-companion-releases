@@ -2,9 +2,9 @@
   "schema": 1,
   "workflow": "Fast Workbench",
   "branch": "workbench",
-  "sha": "f10221f59511a4ece95e02cd64239216d053303d",
-  "message": "fix: preserve world and merchant local changes tombstones and revisions on import",
+  "sha": "34e1ab81c88147f6afe236629fa0bdec281405b4",
+  "message": "fix: satisfy analyzer braces lint in protected imports",
   "status": "completed",
   "conclusion": "failure",
-  "updated_at": "2026-10-25T13:21:32.207247Z"
+  "updated_at": "2026-10-25T13:35:29.866061Z"
 }
