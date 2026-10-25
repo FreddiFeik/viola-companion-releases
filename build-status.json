@@ -4,7 +4,7 @@
   "branch": "workbench",
   "sha": "5e6bd6330361800e802e013b35f45372a2eb48b5",
   "message": "fix: satisfy analyzer braces lint in protected imports",
-  "status": "in_progress",
-  "conclusion": null,
-  "updated_at": "2026-10-25T13:35:37.592416Z"
+  "status": "completed",
+  "conclusion": "failure",
+  "updated_at": "2026-10-25T13:36:34.320230Z"
 }
