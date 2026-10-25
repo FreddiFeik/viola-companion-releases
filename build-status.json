@@ -4,7 +4,7 @@
   "branch": "workbench",
   "sha": "f106b8776598720238eef0908c537c64918b1e60",
   "message": "fix: distinguish missing admin route from offline Viola in admin API errors",
-  "status": "in_progress",
-  "conclusion": null,
-  "updated_at": "2026-10-25T13:10:34.821355Z"
+  "status": "completed",
+  "conclusion": "success",
+  "updated_at": "2026-10-25T13:11:48.993142Z"
 }
