@@ -2,9 +2,9 @@
   "schema": 1,
   "workflow": "Fast Workbench",
   "branch": "workbench",
-  "sha": "0873a26e55145a5c04c74d6744637a8fa6f93a8b",
-  "message": "fix(language): bind analyzer response to submitted text snapshot",
-  "status": "completed",
-  "conclusion": "success",
-  "updated_at": "2026-10-25T19:07:10.939324Z"
+  "sha": "927cc0cdfcf48c0b0f83a0278b31321925a8b780",
+  "message": "fix(language): unify API errors, batch progress and prevent concurrent requests",
+  "status": "in_progress",
+  "conclusion": null,
+  "updated_at": "2026-10-25T19:11:42.412623Z"
 }
