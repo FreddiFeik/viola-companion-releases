@@ -2,9 +2,9 @@
   "schema": 1,
   "workflow": "Fast Workbench",
   "branch": "workbench",
-  "sha": "dc0d4b21ce13b1bf242206fff5cbd854ce170081",
-  "message": "fix: count uploaded records only when local snapshot was actually acknowledged",
-  "status": "completed",
-  "conclusion": "success",
-  "updated_at": "2026-10-25T14:45:50.060095Z"
+  "sha": "8e9716c104b027dee396e0367e7a81004099da4b",
+  "message": "refactor: add server UUID reconciliation helper for interrupted entity uploads",
+  "status": "in_progress",
+  "conclusion": null,
+  "updated_at": "2026-10-25T14:53:37.977681Z"
 }
