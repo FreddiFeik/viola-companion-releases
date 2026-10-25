@@ -2,9 +2,9 @@
   "schema": 1,
   "workflow": "Fast Workbench",
   "branch": "workbench",
-  "sha": "d384db5f31807c185dd23c896201802924d82d07",
-  "message": "fix: normalize inventory quantities and duplicates, memoize item lookup",
-  "status": "completed",
-  "conclusion": "success",
+  "sha": "69582f6ea66e95537d3a9ec42ff249b0ca49700f",
+  "message": "fix: reconcile inventory identity by server ID and verify catalog UUID",
+  "status": "in_progress",
+  "conclusion": null,
   "updated_at": "2026-10-21T22:49:36Z"
 }
