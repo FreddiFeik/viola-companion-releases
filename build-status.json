@@ -4,7 +4,7 @@
   "branch": "workbench",
   "sha": "1042da55ba0ff3c148ef7f81fbb1395e3ec93988",
   "message": "style: import existing Viola notification component",
-  "status": "in_progress",
-  "conclusion": null,
-  "updated_at": "2026-10-25T15:53:12.837575Z"
+  "status": "completed",
+  "conclusion": "failure",
+  "updated_at": "2026-10-25T15:54:22.483345Z"
 }
