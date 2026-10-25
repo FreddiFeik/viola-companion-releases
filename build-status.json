@@ -2,9 +2,9 @@
   "schema": 1,
   "workflow": "Fast Workbench",
   "branch": "workbench",
-  "sha": "936ce19b94a673e4a45ec9bcc1647d614c7969f3",
-  "message": "fix: reject mismatched UUID lookup when inventory server IDs conflict",
-  "status": "completed",
-  "conclusion": "success",
+  "sha": "7be48d3539c3f9534721136fba546129ca50cf64",
+  "message": "fix: guard item imports against stale revisions and conflicting IDs",
+  "status": "in_progress",
+  "conclusion": null,
   "updated_at": "2026-10-21T22:49:36Z"
 }
