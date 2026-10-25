@@ -2,9 +2,9 @@
   "schema": 1,
   "workflow": "Fast Workbench",
   "branch": "workbench",
-  "sha": "8b5c8a204876d3c8d8c06bc2a546672bb72e5962",
-  "message": "fix(android): pin compatible Flutter toolchain for workmanager release build",
-  "status": "completed",
-  "conclusion": "success",
-  "updated_at": "2026-10-25T19:36:27.685601Z"
+  "sha": "cbd8a5f3e8fcbaffed017b7e1f4f1706ec591210",
+  "message": "fix(android): upgrade Workmanager to 0.10.10 for AGP 9 compatibility",
+  "status": "in_progress",
+  "conclusion": null,
+  "updated_at": "2026-10-25T19:50:21.504188Z"
 }
