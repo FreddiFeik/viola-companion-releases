@@ -4,7 +4,7 @@
   "branch": "workbench",
   "sha": "eed2aa8d12d29db3e59683649da6b952530db2dc",
   "message": "feat: add owner RP language laboratory and regression suite UI",
-  "status": "in_progress",
-  "conclusion": null,
-  "updated_at": "2026-10-25T18:24:06.766586Z"
+  "status": "completed",
+  "conclusion": "success",
+  "updated_at": "2026-10-25T18:25:22.754642Z"
 }
