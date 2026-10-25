@@ -2,9 +2,9 @@
   "schema": 1,
   "workflow": "Fast Workbench",
   "branch": "workbench",
-  "sha": "6e8a82c09e85fc8c7ce8c1d9a719b097b577f9d8",
-  "message": "feat(language): edit expected RP analysis results for saved cases",
-  "status": "completed",
-  "conclusion": "success",
-  "updated_at": "2026-10-25T19:02:17.903862Z"
+  "sha": "0873a26e55145a5c04c74d6744637a8fa6f93a8b",
+  "message": "fix(language): bind analyzer response to submitted text snapshot",
+  "status": "in_progress",
+  "conclusion": null,
+  "updated_at": "2026-10-25T19:05:43.974707Z"
 }
