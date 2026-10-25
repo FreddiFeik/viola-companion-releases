@@ -2,9 +2,9 @@
   "schema": 1,
   "workflow": "Fast Workbench",
   "branch": "workbench",
-  "sha": "85cac60fab116bb28538f40e1fb7d7da96d8c0d2",
-  "message": "fix: reject implausibly future-dated developer status timestamps",
-  "status": "completed",
-  "conclusion": "success",
-  "updated_at": "2026-10-25T17:09:43.116352Z"
+  "sha": "5c5cd173d96c0f5f04e3069f01045d82f03b26d9",
+  "message": "test: cover developer CI status parsing and freshness checks",
+  "status": "in_progress",
+  "conclusion": null,
+  "updated_at": "2026-10-25T17:09:51.834122Z"
 }
