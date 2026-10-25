@@ -2,9 +2,9 @@
   "schema": 1,
   "workflow": "Fast Workbench",
   "branch": "workbench",
-  "sha": "18f255849af06d99879acb20cca5faee696709ef",
-  "message": "fix: stop retry when recovered record changed locally during reconciliation",
-  "status": "completed",
-  "conclusion": "success",
-  "updated_at": "2026-10-25T15:30:24.004157Z"
+  "sha": "1042da55ba0ff3c148ef7f81fbb1395e3ec93988",
+  "message": "style: import existing Viola notification component",
+  "status": "in_progress",
+  "conclusion": null,
+  "updated_at": "2026-10-25T15:53:12.837575Z"
 }
