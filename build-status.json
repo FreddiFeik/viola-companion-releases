@@ -2,9 +2,9 @@
   "schema": 1,
   "workflow": "Fast Workbench",
   "branch": "workbench",
-  "sha": "b3e5819ebed75d29ad730c67f98fbc9ccf3324b6",
-  "message": "feat(language): run all saved RP cases and report regressions",
-  "status": "completed",
-  "conclusion": "success",
-  "updated_at": "2026-10-25T18:46:43.520446Z"
+  "sha": "a597a8054eef5cbc208ea0920cce835ee1a017bd",
+  "message": "fix(language): prevent saving mismatched RP text and analysis result",
+  "status": "in_progress",
+  "conclusion": null,
+  "updated_at": "2026-10-25T18:46:51.552340Z"
 }
