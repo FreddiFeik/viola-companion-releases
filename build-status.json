@@ -2,9 +2,9 @@
   "schema": 1,
   "workflow": "Fast Workbench",
   "branch": "workbench",
-  "sha": "ae3ea9c873456e4967fc6b48ec74beb3f1bd3ec9",
-  "message": "feat(language): resolve movement using local Viola locations and clarify API errors",
-  "status": "completed",
-  "conclusion": "success",
-  "updated_at": "2026-10-25T18:31:46.341652Z"
+  "sha": "90e895871c25de489c696f95b164321c9cef3f52",
+  "message": "feat(language): present parsed RP actions in readable dark-fantasy diagnostics",
+  "status": "in_progress",
+  "conclusion": null,
+  "updated_at": "2026-10-25T18:31:53.556124Z"
 }
