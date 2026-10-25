@@ -2,9 +2,9 @@
   "schema": 1,
   "workflow": "Fast Workbench",
   "branch": "workbench",
-  "sha": "e3384b412c0f5df72e6f6da7107d500a0a578b72",
-  "message": "fix(sync): report concurrent local edits during item conflict reconciliation",
-  "status": "completed",
-  "conclusion": "success",
-  "updated_at": "2026-10-25T17:24:25.827429Z"
+  "sha": "b008cc963781aaf88dfd2999e4e25cdf1bdfab4f",
+  "message": "fix(sync): fail safely when local records change during upload",
+  "status": "in_progress",
+  "conclusion": null,
+  "updated_at": "2026-10-25T17:24:33.642778Z"
 }
