@@ -4,7 +4,7 @@
   "branch": "workbench",
   "sha": "0873a26e55145a5c04c74d6744637a8fa6f93a8b",
   "message": "fix(language): bind analyzer response to submitted text snapshot",
-  "status": "in_progress",
-  "conclusion": null,
-  "updated_at": "2026-10-25T19:05:43.974707Z"
+  "status": "completed",
+  "conclusion": "success",
+  "updated_at": "2026-10-25T19:07:10.939324Z"
 }
