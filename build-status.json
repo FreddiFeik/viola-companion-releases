@@ -2,9 +2,9 @@
   "schema": 1,
   "workflow": "Fast Workbench",
   "branch": "workbench",
-  "sha": "55a558b4f93b203a2db89c291d008e745ffce5dd",
-  "message": "style: unify character chronicle feedback with Viola notices",
-  "status": "completed",
-  "conclusion": "success",
-  "updated_at": "2026-10-25T16:03:46.358686Z"
+  "sha": "c777d98c4fc621ce76384b07a5d0f6ce36a6dd41",
+  "message": "style: give character stat allocation a chronicle-themed dialog",
+  "status": "in_progress",
+  "conclusion": null,
+  "updated_at": "2026-10-25T16:07:04.933449Z"
 }
