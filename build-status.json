@@ -4,7 +4,7 @@
   "branch": "workbench",
   "sha": "8b84567c048f5b646ff2b7fa6efd996cc6b6f23b",
   "message": "style(developer): unify status, pipeline and settings with existing relic panels",
-  "status": "in_progress",
-  "conclusion": null,
-  "updated_at": "2026-10-25T23:23:02.022695Z"
+  "status": "completed",
+  "conclusion": "success",
+  "updated_at": "2026-10-25T23:24:36.178173Z"
 }
