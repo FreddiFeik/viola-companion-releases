@@ -2,9 +2,9 @@
   "schema": 1,
   "workflow": "Fast Workbench",
   "branch": "workbench",
-  "sha": "5c5cd173d96c0f5f04e3069f01045d82f03b26d9",
-  "message": "test: cover developer CI status parsing and freshness checks",
-  "status": "completed",
-  "conclusion": "success",
-  "updated_at": "2026-10-25T17:11:05.698753Z"
+  "sha": "e3384b412c0f5df72e6f6da7107d500a0a578b72",
+  "message": "fix(sync): report concurrent local edits during item conflict reconciliation",
+  "status": "in_progress",
+  "conclusion": null,
+  "updated_at": "2026-10-25T17:22:39.671487Z"
 }
