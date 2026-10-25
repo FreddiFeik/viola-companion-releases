@@ -2,9 +2,9 @@
   "schema": 1,
   "workflow": "Fast Workbench",
   "branch": "workbench",
-  "sha": "afecb736f0815a8809e0387b47b18481126c20fb",
-  "message": "fix: request Android notification permission even after background initialization",
-  "status": "completed",
-  "conclusion": "success",
-  "updated_at": "2026-10-25T17:07:34.961349Z"
+  "sha": "85cac60fab116bb28538f40e1fb7d7da96d8c0d2",
+  "message": "fix: reject implausibly future-dated developer status timestamps",
+  "status": "in_progress",
+  "conclusion": null,
+  "updated_at": "2026-10-25T17:08:27.108970Z"
 }
