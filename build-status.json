@@ -2,9 +2,9 @@
   "schema": 1,
   "workflow": "Fast Workbench",
   "branch": "workbench",
-  "sha": "37c80d7370325fe9309efe415fbbe3f075d5030e",
-  "message": "fix: preserve locally deleted items during catalog refresh",
-  "status": "completed",
-  "conclusion": "success",
+  "sha": "278ac19c0d842db5edd8919fe5bb3635d25a175c",
+  "message": "fix: prevent overlapping development status polls and clarify notification scope",
+  "status": "in_progress",
+  "conclusion": null,
   "updated_at": "2026-10-21T22:49:36Z"
 }
