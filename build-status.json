@@ -2,9 +2,9 @@
   "schema": 1,
   "workflow": "Fast Workbench",
   "branch": "workbench",
-  "sha": "7d6e8629ad379a2fc8100d0cc1d4b3d8560ae070",
-  "message": "fix(backup): abort restore on unsynced local changes or tombstones",
-  "status": "completed",
-  "conclusion": "success",
-  "updated_at": "2026-10-25T18:15:52.422836Z"
+  "sha": "eed2aa8d12d29db3e59683649da6b952530db2dc",
+  "message": "feat: add owner RP language laboratory and regression suite UI",
+  "status": "in_progress",
+  "conclusion": null,
+  "updated_at": "2026-10-25T18:24:06.766586Z"
 }
