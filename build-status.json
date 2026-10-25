@@ -2,9 +2,9 @@
   "schema": 1,
   "workflow": "Fast Workbench",
   "branch": "workbench",
-  "sha": "57a6219383a6d0eb59ffa9de922364200783d825",
-  "message": "fix: protect bestiary pending edits tombstones and server identity during pull",
-  "status": "completed",
-  "conclusion": "failure",
-  "updated_at": "2026-10-25T13:20:27.237892Z"
+  "sha": "f10221f59511a4ece95e02cd64239216d053303d",
+  "message": "fix: preserve world and merchant local changes tombstones and revisions on import",
+  "status": "in_progress",
+  "conclusion": null,
+  "updated_at": "2026-10-25T13:20:35.184482Z"
 }
