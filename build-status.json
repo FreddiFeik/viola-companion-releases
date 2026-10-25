@@ -2,9 +2,9 @@
   "schema": 1,
   "workflow": "Fast Workbench",
   "branch": "workbench",
-  "sha": "b008cc963781aaf88dfd2999e4e25cdf1bdfab4f",
-  "message": "fix(sync): fail safely when local records change during upload",
-  "status": "completed",
-  "conclusion": "success",
-  "updated_at": "2026-10-25T17:26:03.255855Z"
+  "sha": "7d6e8629ad379a2fc8100d0cc1d4b3d8560ae070",
+  "message": "fix(backup): abort restore on unsynced local changes or tombstones",
+  "status": "in_progress",
+  "conclusion": null,
+  "updated_at": "2026-10-25T18:14:38.034905Z"
 }
