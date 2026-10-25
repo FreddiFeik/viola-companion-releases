@@ -2,9 +2,9 @@
   "schema": 1,
   "workflow": "Fast Workbench",
   "branch": "workbench",
-  "sha": "b93f7a088169f01d6b81fe5a2da853fa45765ce2",
-  "message": "feat(language): save and reuse personal RP analysis examples locally",
-  "status": "completed",
-  "conclusion": "success",
-  "updated_at": "2026-10-25T18:39:19.310330Z"
+  "sha": "ed6e08690dab4e128a4b9f270c7969eaad336386",
+  "message": "feat(language): compare rerun results against saved RP expectations",
+  "status": "in_progress",
+  "conclusion": null,
+  "updated_at": "2026-10-25T18:39:27.262547Z"
 }
