@@ -4,7 +4,7 @@
   "branch": "workbench",
   "sha": "ed6e08690dab4e128a4b9f270c7969eaad336386",
   "message": "feat(language): compare rerun results against saved RP expectations",
-  "status": "in_progress",
-  "conclusion": null,
-  "updated_at": "2026-10-25T18:39:27.262547Z"
+  "status": "completed",
+  "conclusion": "success",
+  "updated_at": "2026-10-25T18:40:43.528185Z"
 }
