@@ -2,9 +2,9 @@
   "schema": 1,
   "workflow": "Fast Workbench",
   "branch": "workbench",
-  "sha": "10c7556791b47fba891b8309ec73b4f065c9524f",
-  "message": "feat: reconcile interrupted creates by UUID and full remote payload before retry",
-  "status": "completed",
-  "conclusion": "success",
-  "updated_at": "2026-10-25T15:22:28.906955Z"
+  "sha": "18f255849af06d99879acb20cca5faee696709ef",
+  "message": "fix: stop retry when recovered record changed locally during reconciliation",
+  "status": "in_progress",
+  "conclusion": null,
+  "updated_at": "2026-10-25T15:29:01.860525Z"
 }
