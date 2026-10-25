@@ -2,9 +2,9 @@
   "schema": 1,
   "workflow": "Fast Workbench",
   "branch": "workbench",
-  "sha": "8e9716c104b027dee396e0367e7a81004099da4b",
-  "message": "refactor: add server UUID reconciliation helper for interrupted entity uploads",
-  "status": "completed",
-  "conclusion": "failure",
-  "updated_at": "2026-10-25T14:54:42.477845Z"
+  "sha": "fc57f543c857ae7da4a50602dc69038df55558dc",
+  "message": "revert: defer unsafe UUID-only upload recovery until payload equivalence is validated",
+  "status": "in_progress",
+  "conclusion": null,
+  "updated_at": "2026-10-25T14:54:49.656075Z"
 }
