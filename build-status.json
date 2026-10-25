@@ -4,7 +4,7 @@
   "branch": "workbench",
   "sha": "4e63dd8dd401070b8482f0f541b6c51c30a2605b",
   "message": "fix: validate item upload and conflict-recovery receipts consistently",
-  "status": "in_progress",
-  "conclusion": null,
-  "updated_at": "2026-10-25T15:10:09.044461Z"
+  "status": "completed",
+  "conclusion": "success",
+  "updated_at": "2026-10-25T15:11:33.172407Z"
 }
