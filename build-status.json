@@ -2,9 +2,9 @@
   "schema": 1,
   "workflow": "Fast Workbench",
   "branch": "workbench",
-  "sha": "aa214869a8c3041ba1511c3d1964a4df8f4be84c",
-  "message": "fix: persist CI notification deduplication across Android background isolates",
-  "status": "completed",
-  "conclusion": "success",
-  "updated_at": "2026-10-25T13:07:09.941436Z"
+  "sha": "c5e3fec3f236afab7d410a436b4972526a7ba8a3",
+  "message": "fix: reconcile background monitoring for previously enabled developer mode",
+  "status": "in_progress",
+  "conclusion": null,
+  "updated_at": "2026-10-25T13:07:17.191392Z"
 }
