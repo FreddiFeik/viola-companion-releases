@@ -2,9 +2,9 @@
   "schema": 1,
   "workflow": "Fast Workbench",
   "branch": "workbench",
-  "sha": "01cfff582c3c144a60afcdd01da9ee1ebe578cab",
-  "message": "fix(admin): constrain registry heading and app bar text on compact displays",
-  "status": "completed",
-  "conclusion": "success",
-  "updated_at": "2026-10-25T23:26:02.248154Z"
+  "sha": "b6767ecba96a53a1a61a8c55dcb093ca2440fd11",
+  "message": "style(channel): align beta switch and archive actions with ritual command panels",
+  "status": "in_progress",
+  "conclusion": null,
+  "updated_at": "2026-10-25T23:28:18.907843Z"
 }
