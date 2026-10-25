@@ -2,9 +2,9 @@
   "schema": 1,
   "workflow": "Fast Workbench",
   "branch": "workbench",
-  "sha": "278ac19c0d842db5edd8919fe5bb3635d25a175c",
-  "message": "fix: prevent overlapping development status polls and clarify notification scope",
-  "status": "completed",
-  "conclusion": "failure",
+  "sha": "8845154f7c1267e5fe23a698784c4c95f1db49c2",
+  "message": "fix: satisfy Flutter analyzer braces rule in development status polling",
+  "status": "in_progress",
+  "conclusion": null,
   "updated_at": "2026-10-21T22:49:36Z"
 }
