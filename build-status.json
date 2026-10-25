@@ -4,7 +4,7 @@
   "branch": "workbench",
   "sha": "e3384b412c0f5df72e6f6da7107d500a0a578b72",
   "message": "fix(sync): report concurrent local edits during item conflict reconciliation",
-  "status": "in_progress",
-  "conclusion": null,
-  "updated_at": "2026-10-25T17:22:39.671487Z"
+  "status": "completed",
+  "conclusion": "success",
+  "updated_at": "2026-10-25T17:24:25.827429Z"
 }
