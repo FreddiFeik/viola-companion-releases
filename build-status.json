@@ -2,9 +2,9 @@
   "schema": 1,
   "workflow": "Fast Workbench",
   "branch": "workbench",
-  "sha": "927cc0cdfcf48c0b0f83a0278b31321925a8b780",
-  "message": "fix(language): unify API errors, batch progress and prevent concurrent requests",
-  "status": "completed",
-  "conclusion": "success",
-  "updated_at": "2026-10-25T19:12:57.763031Z"
+  "sha": "c19d2d579aac0247a3e27a0aa3f43ff322e11ca9",
+  "message": "chore(beta): prepare 0.6.1-beta.5 language laboratory test build",
+  "status": "in_progress",
+  "conclusion": null,
+  "updated_at": "2026-10-25T19:17:49.706929Z"
 }
