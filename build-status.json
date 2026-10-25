@@ -2,9 +2,9 @@
   "schema": 1,
   "workflow": "Fast Workbench",
   "branch": "workbench",
-  "sha": "c19d2d579aac0247a3e27a0aa3f43ff322e11ca9",
-  "message": "chore(beta): prepare 0.6.1-beta.5 language laboratory test build",
-  "status": "completed",
-  "conclusion": "success",
-  "updated_at": "2026-10-25T19:19:11.839952Z"
+  "sha": "fb861a82d58b1a91013c29b04eca3c7c68697ebb",
+  "message": "chore(beta): describe language laboratory in beta release notes",
+  "status": "in_progress",
+  "conclusion": null,
+  "updated_at": "2026-10-25T19:19:19.276705Z"
 }
