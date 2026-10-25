@@ -4,7 +4,7 @@
   "branch": "workbench",
   "sha": "278ac19c0d842db5edd8919fe5bb3635d25a175c",
   "message": "fix: prevent overlapping development status polls and clarify notification scope",
-  "status": "in_progress",
-  "conclusion": null,
+  "status": "completed",
+  "conclusion": "failure",
   "updated_at": "2026-10-21T22:49:36Z"
 }
