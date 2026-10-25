@@ -4,7 +4,7 @@
   "branch": "workbench",
   "sha": "8b5c8a204876d3c8d8c06bc2a546672bb72e5962",
   "message": "fix(android): pin compatible Flutter toolchain for workmanager release build",
-  "status": "in_progress",
-  "conclusion": null,
-  "updated_at": "2026-10-25T19:35:12.338835Z"
+  "status": "completed",
+  "conclusion": "success",
+  "updated_at": "2026-10-25T19:36:27.685601Z"
 }
