@@ -2,9 +2,9 @@
   "schema": 1,
   "workflow": "Fast Workbench",
   "branch": "workbench",
-  "sha": "5e6bd6330361800e802e013b35f45372a2eb48b5",
-  "message": "fix: satisfy analyzer braces lint in protected imports",
-  "status": "completed",
-  "conclusion": "failure",
-  "updated_at": "2026-10-25T13:36:34.320230Z"
+  "sha": "23f712f6b5beffd282bfc6466dd1196c2a87ffde",
+  "message": "fix: brace multiline server identity guards flagged by Flutter analyzer",
+  "status": "in_progress",
+  "conclusion": null,
+  "updated_at": "2026-10-25T13:50:37.979625Z"
 }
