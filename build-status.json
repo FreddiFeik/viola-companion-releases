@@ -4,7 +4,7 @@
   "branch": "workbench",
   "sha": "8e9716c104b027dee396e0367e7a81004099da4b",
   "message": "refactor: add server UUID reconciliation helper for interrupted entity uploads",
-  "status": "in_progress",
-  "conclusion": null,
-  "updated_at": "2026-10-25T14:53:37.977681Z"
+  "status": "completed",
+  "conclusion": "failure",
+  "updated_at": "2026-10-25T14:54:42.477845Z"
 }
