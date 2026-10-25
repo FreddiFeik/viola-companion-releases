@@ -2,9 +2,9 @@
   "schema": 1,
   "workflow": "Fast Workbench",
   "branch": "workbench",
-  "sha": "9d01af02de2891b01909526fc1016b8ff6f4631e",
-  "message": "fix: validate entity upload receipts before acknowledging local changes",
-  "status": "completed",
-  "conclusion": "success",
-  "updated_at": "2026-10-25T15:04:35.967114Z"
+  "sha": "4e63dd8dd401070b8482f0f541b6c51c30a2605b",
+  "message": "fix: validate item upload and conflict-recovery receipts consistently",
+  "status": "in_progress",
+  "conclusion": null,
+  "updated_at": "2026-10-25T15:10:09.044461Z"
 }
