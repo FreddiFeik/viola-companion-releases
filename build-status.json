@@ -2,9 +2,9 @@
   "schema": 1,
   "workflow": "Fast Workbench",
   "branch": "workbench",
-  "sha": "23f712f6b5beffd282bfc6466dd1196c2a87ffde",
+  "sha": "f7a821303b751ddd1f8c417d9a4097ffd3cf4d7f",
   "message": "fix: brace multiline server identity guards flagged by Flutter analyzer",
-  "status": "completed",
-  "conclusion": "failure",
-  "updated_at": "2026-10-25T13:51:54.473168Z"
+  "status": "in_progress",
+  "conclusion": null,
+  "updated_at": "2026-10-25T13:52:01.858216Z"
 }
