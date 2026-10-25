@@ -2,9 +2,9 @@
   "schema": 1,
   "workflow": "Fast Workbench",
   "branch": "workbench",
-  "sha": "34e1ab81c88147f6afe236629fa0bdec281405b4",
+  "sha": "5e6bd6330361800e802e013b35f45372a2eb48b5",
   "message": "fix: satisfy analyzer braces lint in protected imports",
-  "status": "completed",
-  "conclusion": "failure",
-  "updated_at": "2026-10-25T13:35:29.866061Z"
+  "status": "in_progress",
+  "conclusion": null,
+  "updated_at": "2026-10-25T13:35:37.592416Z"
 }
