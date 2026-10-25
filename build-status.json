@@ -4,7 +4,7 @@
   "branch": "workbench",
   "sha": "57a6219383a6d0eb59ffa9de922364200783d825",
   "message": "fix: protect bestiary pending edits tombstones and server identity during pull",
-  "status": "in_progress",
-  "conclusion": null,
-  "updated_at": "2026-10-25T13:19:31.461039Z"
+  "status": "completed",
+  "conclusion": "failure",
+  "updated_at": "2026-10-25T13:20:27.237892Z"
 }
