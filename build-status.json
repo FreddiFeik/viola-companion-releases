@@ -4,7 +4,7 @@
   "branch": "workbench",
   "sha": "61d2e8d73945b015cdf3f72d7a8e0616ae806782",
   "message": "style: give administration registry role-specific sigils and etched separators",
-  "status": "in_progress",
-  "conclusion": null,
-  "updated_at": "2026-10-25T16:22:03.681023Z"
+  "status": "completed",
+  "conclusion": "success",
+  "updated_at": "2026-10-25T16:23:18.362073Z"
 }
