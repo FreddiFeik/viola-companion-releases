@@ -2,9 +2,9 @@
   "schema": 1,
   "workflow": "Fast Workbench",
   "branch": "workbench",
-  "sha": "99a5e4d76e5f0263784b371fa580fca39881d87f",
-  "message": "feat(ci): add opt-in event-driven FCM notification workflow for completed workbench runs",
-  "status": "completed",
-  "conclusion": "success",
-  "updated_at": "2026-10-25T23:38:11.215239Z"
+  "sha": "080c45c48b46a5a757c494887d17fa22e70a82e9",
+  "message": "build(beta): provision validated Firebase Android config from optional Actions secret",
+  "status": "in_progress",
+  "conclusion": null,
+  "updated_at": "2026-10-26T11:09:43.988754Z"
 }
