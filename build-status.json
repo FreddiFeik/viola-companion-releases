@@ -4,7 +4,7 @@
   "branch": "workbench",
   "sha": "5c50b45f9473da4f4b9fc40439808e17773a719e",
   "message": "fix(build): insert actual newlines in generated Gradle plugin blocks",
-  "status": "in_progress",
-  "conclusion": null,
-  "updated_at": "2026-10-26T11:11:23.019095Z"
+  "status": "completed",
+  "conclusion": "success",
+  "updated_at": "2026-10-26T11:13:09.427818Z"
 }
