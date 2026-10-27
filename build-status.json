@@ -2,9 +2,9 @@
   "schema": 1,
   "workflow": "Fast Workbench",
   "branch": "workbench",
-  "sha": "3471902de8fc52b1557d0ecfde47aece79b3403d",
-  "message": "ci(android): validate Firebase config in existing manual Android workflow on workbench",
-  "status": "completed",
-  "conclusion": "success",
-  "updated_at": "2026-10-27T22:45:06.215101Z"
+  "sha": "c0d992a8d0d014c3cc931aa1b9475948426798d8",
+  "message": "fix(android): enable notification desugaring and block workbench release publication",
+  "status": "in_progress",
+  "conclusion": null,
+  "updated_at": "2026-10-27T23:24:38.740339Z"
 }
