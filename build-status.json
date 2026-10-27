@@ -2,9 +2,9 @@
   "schema": 1,
   "workflow": "Fast Workbench",
   "branch": "workbench",
-  "sha": "c0d992a8d0d014c3cc931aa1b9475948426798d8",
-  "message": "fix(android): enable notification desugaring and block workbench release publication",
-  "status": "completed",
-  "conclusion": "success",
-  "updated_at": "2026-10-27T23:26:13.211928Z"
+  "sha": "0cabe6aabf0e25426845568d01ec59df03fe6e9b",
+  "message": "fix(ci): correct desugaring Gradle script string escaping",
+  "status": "in_progress",
+  "conclusion": null,
+  "updated_at": "2026-10-27T23:26:22.383466Z"
 }
