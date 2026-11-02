@@ -4,7 +4,7 @@
   "branch": "workbench",
   "sha": "e3836403fba0a5c6d06c7215c054b27f9336da60",
   "message": "feat(push): owner-only opt-in FCM token lifecycle without premature server registration",
-  "status": "in_progress",
-  "conclusion": null,
-  "updated_at": "2026-11-02T23:32:17.098767Z"
+  "status": "completed",
+  "conclusion": "failure",
+  "updated_at": "2026-11-02T23:33:33.644376Z"
 }
