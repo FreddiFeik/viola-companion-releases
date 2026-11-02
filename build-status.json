@@ -4,7 +4,7 @@
   "branch": "workbench",
   "sha": "f08c47dd0387f4b91af81a4007d2a2e951b6dba7",
   "message": "feat(push): initialize owner opt-in FCM token lifecycle after Firebase startup",
-  "status": "in_progress",
-  "conclusion": null,
-  "updated_at": "2026-11-02T23:33:41.719023Z"
+  "status": "completed",
+  "conclusion": "failure",
+  "updated_at": "2026-11-02T23:34:48.632082Z"
 }
