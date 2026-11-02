@@ -2,9 +2,9 @@
   "schema": 1,
   "workflow": "Fast Workbench",
   "branch": "workbench",
-  "sha": "be16e8103a57ed304e509eabc97b94dc8390f3b6",
-  "message": "feat(push): initialize Firebase safely on Android and register background message entrypoint",
-  "status": "completed",
-  "conclusion": "success",
-  "updated_at": "2026-11-02T03:30:14.165671Z"
+  "sha": "e3836403fba0a5c6d06c7215c054b27f9336da60",
+  "message": "feat(push): owner-only opt-in FCM token lifecycle without premature server registration",
+  "status": "in_progress",
+  "conclusion": null,
+  "updated_at": "2026-11-02T23:32:17.098767Z"
 }
