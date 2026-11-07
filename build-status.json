@@ -4,7 +4,7 @@
   "branch": "workbench",
   "sha": "974850b565f7d119f13e55b8e5404aec06780966",
   "message": "feat: register owner FCM token with authenticated companion endpoint",
-  "status": "in_progress",
-  "conclusion": null,
-  "updated_at": "2026-11-07T22:47:47.662476Z"
+  "status": "completed",
+  "conclusion": "success",
+  "updated_at": "2026-11-07T22:49:02.834367Z"
 }
