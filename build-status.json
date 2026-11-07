@@ -2,9 +2,9 @@
   "schema": 1,
   "workflow": "Fast Workbench",
   "branch": "workbench",
-  "sha": "c879b82fc26e54c2738cc07c4324bd42f3f0fc3f",
-  "message": "fix: sync FCM opt-in with development mode toggle",
-  "status": "completed",
-  "conclusion": "success",
-  "updated_at": "2026-11-07T22:42:55.186247Z"
+  "sha": "931b58a47d4ea003375e721ec48a98cc7b829fbe",
+  "message": "fix: initialize owner push after identity bootstrap",
+  "status": "in_progress",
+  "conclusion": null,
+  "updated_at": "2026-11-07T22:45:15.157177Z"
 }
