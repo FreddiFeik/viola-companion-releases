@@ -2,9 +2,9 @@
   "schema": 1,
   "workflow": "Fast Workbench",
   "branch": "workbench",
-  "sha": "c7b1d82ec2430b5763517ff15e44923ad3c39bc6",
-  "message": "fix(push): remove unused token cache flagged by Flutter analyzer",
-  "status": "completed",
-  "conclusion": "success",
-  "updated_at": "2026-11-03T09:49:13.415135Z"
+  "sha": "c879b82fc26e54c2738cc07c4324bd42f3f0fc3f",
+  "message": "fix: sync FCM opt-in with development mode toggle",
+  "status": "in_progress",
+  "conclusion": null,
+  "updated_at": "2026-11-07T22:41:38.733580Z"
 }
