@@ -2,9 +2,9 @@
   "schema": 1,
   "workflow": "Fast Workbench",
   "branch": "workbench",
-  "sha": "974850b565f7d119f13e55b8e5404aec06780966",
-  "message": "feat: register owner FCM token with authenticated companion endpoint",
-  "status": "completed",
-  "conclusion": "success",
-  "updated_at": "2026-11-07T22:49:02.834367Z"
+  "sha": "ac9cbf84ddfadd3754288070a6bf4da07eea82f2",
+  "message": "fix: keep FCM token refresh active when companion backend is offline",
+  "status": "in_progress",
+  "conclusion": null,
+  "updated_at": "2026-11-08T20:50:40.015121Z"
 }
