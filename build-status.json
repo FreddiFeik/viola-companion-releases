@@ -4,7 +4,7 @@
   "branch": "workbench",
   "sha": "ac9cbf84ddfadd3754288070a6bf4da07eea82f2",
   "message": "fix: keep FCM token refresh active when companion backend is offline",
-  "status": "in_progress",
-  "conclusion": null,
-  "updated_at": "2026-11-08T20:50:40.015121Z"
+  "status": "completed",
+  "conclusion": "success",
+  "updated_at": "2026-11-08T20:52:00.303411Z"
 }
