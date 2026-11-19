@@ -4,7 +4,7 @@
   "branch": "workbench",
   "sha": "796539c02191583ff89b89b91fd730e753dabecd",
   "message": "feat: add authenticated Firebase readiness and test-send client methods",
-  "status": "in_progress",
-  "conclusion": null,
-  "updated_at": "2026-11-19T17:56:18.287695Z"
+  "status": "completed",
+  "conclusion": "failure",
+  "updated_at": "2026-11-19T17:57:20.857456Z"
 }
