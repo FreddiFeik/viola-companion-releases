@@ -2,9 +2,9 @@
   "schema": 1,
   "workflow": "Fast Workbench",
   "branch": "workbench",
-  "sha": "796539c02191583ff89b89b91fd730e753dabecd",
-  "message": "feat: add authenticated Firebase readiness and test-send client methods",
-  "status": "completed",
-  "conclusion": "failure",
-  "updated_at": "2026-11-19T17:57:20.857456Z"
+  "sha": "c31f9edae751c284275ea499555866b0a8218e97",
+  "message": "ci: avoid Flutter 3.50 Material import deprecation breaking workbench analysis",
+  "status": "in_progress",
+  "conclusion": null,
+  "updated_at": "2026-11-19T18:03:01.753414Z"
 }
