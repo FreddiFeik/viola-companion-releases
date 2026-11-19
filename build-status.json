@@ -4,7 +4,7 @@
   "branch": "workbench",
   "sha": "c31f9edae751c284275ea499555866b0a8218e97",
   "message": "ci: avoid Flutter 3.50 Material import deprecation breaking workbench analysis",
-  "status": "in_progress",
-  "conclusion": null,
-  "updated_at": "2026-11-19T18:03:01.753414Z"
+  "status": "completed",
+  "conclusion": "success",
+  "updated_at": "2026-11-19T18:04:41.873637Z"
 }
