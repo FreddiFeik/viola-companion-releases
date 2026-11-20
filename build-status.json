@@ -4,7 +4,7 @@
   "branch": "workbench",
   "sha": "ba05a8bd4539375bb410e82c00ca0b0090b768ac",
   "message": "feat: distinguish valid Firebase Admin credentials from actual push delivery",
-  "status": "in_progress",
-  "conclusion": null,
-  "updated_at": "2026-11-20T22:36:02.704968Z"
+  "status": "completed",
+  "conclusion": "success",
+  "updated_at": "2026-11-20T22:37:16.307579Z"
 }
