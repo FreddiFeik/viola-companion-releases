@@ -2,9 +2,9 @@
   "schema": 1,
   "workflow": "Fast Workbench",
   "branch": "workbench",
-  "sha": "517a142b7a65bc241cdf24befb1c0b674d0e180e",
-  "message": "feat: re-register FCM device before readiness and test push actions",
-  "status": "completed",
-  "conclusion": "success",
-  "updated_at": "2026-11-20T22:14:44.807891Z"
+  "sha": "ba05a8bd4539375bb410e82c00ca0b0090b768ac",
+  "message": "feat: distinguish valid Firebase Admin credentials from actual push delivery",
+  "status": "in_progress",
+  "conclusion": null,
+  "updated_at": "2026-11-20T22:36:02.704968Z"
 }
