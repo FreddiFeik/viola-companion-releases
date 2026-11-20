@@ -4,7 +4,7 @@
   "branch": "workbench",
   "sha": "0cb7be6aa8d439909e4d7092eaa8c808d028afee",
   "message": "feat: allow explicit owner-only Firebase token registration retry",
-  "status": "in_progress",
-  "conclusion": null,
-  "updated_at": "2026-11-20T22:11:49.407653Z"
+  "status": "completed",
+  "conclusion": "success",
+  "updated_at": "2026-11-20T22:13:21.789286Z"
 }
