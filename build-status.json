@@ -2,9 +2,9 @@
   "schema": 1,
   "workflow": "Fast Workbench",
   "branch": "workbench",
-  "sha": "0cb7be6aa8d439909e4d7092eaa8c808d028afee",
-  "message": "feat: allow explicit owner-only Firebase token registration retry",
-  "status": "completed",
-  "conclusion": "success",
-  "updated_at": "2026-11-20T22:13:21.789286Z"
+  "sha": "517a142b7a65bc241cdf24befb1c0b674d0e180e",
+  "message": "feat: re-register FCM device before readiness and test push actions",
+  "status": "in_progress",
+  "conclusion": null,
+  "updated_at": "2026-11-20T22:13:29.981303Z"
 }
